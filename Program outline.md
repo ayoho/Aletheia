@@ -1,4 +1,4 @@
-= Program steps
+# Program steps
 
 1. Audio input
 
