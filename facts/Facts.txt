@@ -1,0 +1,9 @@
+The Sun is larger than Earth.
+The Moon is smaller than Earth.
+Earth revolves around the Sun.
+The Moon revolves around Earth.
+Jupiter is the largest planet in the solar system.
+Mercury is the smallest planet in the solar system.
+The Earth is 92.96 million miles away from the Sun.
+The Earth is about 93 million miles away from the Sun.
+The Moon is about 238,900 miles away from Earth.
